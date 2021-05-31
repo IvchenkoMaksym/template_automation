@@ -2,10 +2,10 @@
 This basic project allows you to run the first automation tests on Ruby with Selenium and Cucumber.
 
 ## Precondition
-All the necessary apps, gems must be installed. Follow this guide: https://wiki.chervona-ruta.xyz/books/automation/page/aqa-process
+All the necessary apps, gems must be installed. Follow this guide: https://wiki.chervona-ruta.xyz/books/automation/page/aqa-process. Also, open terminal and install *webdrivers* gem with next command: **gem install webdrivers**
 
 ## Run the test
-Navigate to the folder where the project is located. Enter ***cucumber*** and press enter.
+Navigate to the folder where the project is located. In Terminal, enter ***cucumber*** and press enter.
 The Chrome browser will be opened and the test should be performed.
 
 ## Create a new project
